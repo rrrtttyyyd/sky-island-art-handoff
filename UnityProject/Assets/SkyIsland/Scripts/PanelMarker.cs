@@ -1,0 +1,1 @@
+using UnityEngine; namespace SkyIsland {public class PanelMarker:MonoBehaviour {public PanelState State;}}
